@@ -1,0 +1,43 @@
+div.candidate
+{
+     color: white;
+     font-size: 25px;
+     font-weight: bold;
+     text-align: center;
+     background: black;
+     
+}
+div.subcandidate
+{
+    font-size: 20px;
+    font-weight: bold;
+    color:black;
+    text-align: center;
+    background: white;
+}
+#subcandidate
+{
+    font-size: 20px;
+    position:fixed;
+    width:100%;
+    top:20%;
+    font-weight: bold;
+    color:black;
+    text-align: center;
+    background: white;
+}
+div.sticky{
+    top: 5;
+    width: 100%;
+    position: fixed;
+}
+div.logout
+{
+    position:fixed;
+    left: 90%;
+    top:10%;
+}
+a{
+  font-size: 25px;
+  color: aqua;
+}
